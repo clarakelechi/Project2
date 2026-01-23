@@ -1,3 +1,4 @@
+
 import { SafeAreaView }  from 'react-native-safe-area-context';
 
 
@@ -14,3 +15,5 @@ const Home =()=>{
 
 
 export default Home; 
+
+
